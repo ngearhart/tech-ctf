@@ -1,0 +1,5 @@
+Congrats! You found a flag.
+
+Unfortunately, you're not done yet. The theme is really found in /home/www-data/tech2022.txt
+
+Hint: https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection#filter-bypasses

